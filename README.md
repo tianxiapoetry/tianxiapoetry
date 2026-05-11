@@ -1,16 +1,17 @@
-## Hi there 👋
+# 《天下诗歌》诗刊
+欢迎来到《天下诗歌》诗刊官方仓库，这里收录原创诗歌作品、期刊文稿与相关创作资料。
 
-<!--
-**tianxiapoetry/tianxiapoetry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 关于本刊
+《天下诗歌》致力于发掘、传播优秀原创诗歌作品，为诗友提供交流与展示的平台。
 
-Here are some ideas to get you started:
+## 目录
+- [创刊号](./issues/001.md)
+- [投稿指南](./CONTRIBUTING.md)
+- [版权说明](#版权说明)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 投稿方式
+- 邮箱：17177851@qq.com
+- 来稿请附作者简介与联系方式，稿件一经录用，将在本刊及线上平台发布。
+
+## 版权说明
+本项目采用 CC0-1.0 许可证，作品版权归原作者所有，未经许可禁止商用。
